@@ -1,1 +1,1 @@
-
+In this task, as an illustration of a real-world problem, you are asked to predict the electricity prices in Switzerland given price information of some other countries and additional features. You will encounter typical ML workflow challenges of missing features and low predictivity in this task.
